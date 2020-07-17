@@ -66,6 +66,9 @@ class BSTNode:
         if self.right:
             self.right.for_each(fn)
 
+##test
+
+
 
 names = BSTNode("")
 
